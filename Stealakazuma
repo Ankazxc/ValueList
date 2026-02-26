@@ -1,10 +1,10 @@
 {
-  "Rarity": [
-    "Valentines",
-    "Festive",
-    "Taco",
-    "Admin",
-    "Og",
-    "Secret"
-  ]
+  "Rarity": {
+    "Valentines": 6,
+    "Festive": 5,
+    "Taco": 4,
+    "Admin": 3,
+    "Og": 2,
+    "Secret": 1
+  }
 }
