@@ -2,16 +2,31 @@
   "opitems": [
     "Money Base Skin",
     "Glitch Base Skin",
-    "Heartbreaker Base Skin"
+    "Heartbreaker Base Skin",
+    "Crownfire Base Skin"
   ],
   "Infinity": [
     "Noobini Infeeny",
     "Anububu",
     "Meta Technetta",
+    "Biscotti Macarotti",
+    "Cioccolatone Draghettone",
+    "Tartarughi Attrezzini",
+    "Kissarini Heartini",
+    "Polpo Semaforini",
+    "Cupitron Consoletron",
+    "Gatti Marshmallini",
+    "Magmew",
     "Big Noobini Infeeny",
     "Big Anububu",
     "Big Meta Technetta",
-    "Magmew",
+    "Big Biscotti Macarotti",
+    "Big Cioccolatone Draghettone",
+    "Big Tartarughi Attrezzini",
+    "Big Kissarini Heartini",
+    "Big Polpo Semaforini",
+    "Big Cupitron Consoletron",
+    "Big Gatti Marshmallini",
     "Big Magmew"
   ],
   "Divine": [
@@ -25,6 +40,12 @@
     "Grappellino D'Oro",
     "Rubichetto Cubini",
     "Glacierello Infernetti",
+    "Explodini Cataclismi",
+    "Pastapot Infernotto",
+    "Don Magmito",
+    "Cornettino Fuaco",
+    "La Bruma Celta",
+    "Draculini Meowlini",
     "Big Galactio Fantasma",
     "Big Strawberry Elephant",
     "Big Burgerini Bearini",
@@ -35,7 +56,11 @@
     "Big Grappellino D'Oro",
     "Big Rubichetto Cubini",
     "Big Glacierello Infernetti",
-    "Draculini Meowlini",
+    "Big Explodini Cataclismi",
+    "Big Pastapot Infernotto",
+    "Big Don Magmito",
+    "Big Cornettino Fuaco",
+    "Big La Bruma Celta",
     "Big Draculini Meowlini"
   ]
 }
